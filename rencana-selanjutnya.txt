@@ -2,4 +2,4 @@
  - UI / Frontend
  - backend
 - notifikasi
-- hosting
+ -frontend
