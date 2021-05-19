@@ -1,6 +1,7 @@
 - edit profile web
  - UI / Frontend
  - backend
+ - Fungsionalitas
 - notifikasi
  - UI
 - hosting
